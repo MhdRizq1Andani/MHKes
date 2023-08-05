@@ -315,7 +315,7 @@ nav .fa{
 	flex-basis: 31%;
 	margin-bottom: 5%;
 	margin-radius: 10px;
-	text-align: left;
+	
 }
 .program-col img{
 	width: 100%;
@@ -559,7 +559,7 @@ footer ul li a {
 	cursor: pointer;
 }
 .about-col1 hr{
-	margin: 25px 0  0;
+	margin: 25px 0  ;
 	color:  #d9d9d9;
 	background-color: #d9d9d9;
 }
@@ -595,6 +595,13 @@ footer ul li a {
 	margin: 0;
 }
 
+.pengajar tr td{
+	color:  #737373;
+	
+}
+.akreditasi{
+	margin-top: 10px;
+}
 
 /*-------pengumuman side-------*/
 	
